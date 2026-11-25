@@ -1,0 +1,5 @@
+site_name: "A GA4 property settings audit you can finish in an hour"
+site_author: Gorilla Vibe
+theme: readthedocs
+nav:
+  - Home: index.md
